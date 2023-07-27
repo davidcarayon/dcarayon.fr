@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: slides/WCDP23/banner.png
   
 execute: 
   freeze: auto
@@ -32,6 +33,7 @@ format:
   html:
     theme: litera
     css: styles.css
+from: markdown+emoji
 
 
 

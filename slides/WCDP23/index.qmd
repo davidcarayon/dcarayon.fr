@@ -1,0 +1,15 @@
+---
+title: "Using machine learning to predict drownings in surf beaches of southwest France"
+author: "David CARAYON"
+date: "2023-12-04"
+categories: [WCDP, slides, Drowning, Machine learning]
+image: thumbnail.png
+---
+
+Slides for our communication for the WCDP2023 in Perth
+
+:::{.callout-tip appearance="minimal"}
+slides here :point_right: [https://davidcarayon.github.io/slides/talks/WCDP23](https://davidcarayon.github.io/slides/talks/WCDP23)
+:::
+
+

@@ -1,0 +1,14 @@
+---
+title: "Présentation d'IDEATools"
+author: "David CARAYON"
+date: "2021-02-02"
+categories: [IDEATools, IDEA4, slides]
+image: "https://davidcarayon.github.io/IDEATools/reference/figures/logo.png"
+---
+
+Présentation rapide du package R {IDEATools}.
+
+
+:::{.callout-tip appearance="minimal"}
+slides here :point_right: [https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf](https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf)
+:::

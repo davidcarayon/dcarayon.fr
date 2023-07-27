@@ -1,0 +1,15 @@
+---
+title: "Présentation du projet SK8"
+author: "David CARAYON"
+date: "2023-05-26"
+categories: [SK8, slides, INRAE]
+image: "https://sk8.inrae.fr/images/SK8-logo-trans-128.png"
+---
+
+
+Présentation du projet SK8 lors du café données de l'UR EABX.
+
+
+:::{.callout-tip appearance="simple"}
+Présentation ici : [https://davidcarayon.github.io/slides/talks/EABX_SK8](https://davidcarayon.github.io/slides/talks/EABX_SK8)
+:::

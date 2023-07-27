@@ -1,0 +1,16 @@
+---
+title: "Bulle d'R n°1 : Bonnes pratiques à ETTIS"
+author: "David CARAYON, Sandrine LYSER"
+date: "2023-06-06"
+categories: [Formation, Bulle d'R, ETTIS, slides, INRAE]
+image: "https://github.com/statire/bulledr/raw/main/logo-bulledr.png"
+---
+
+
+Première session de formation annuelle aux bonnes pratiques R à ETTIS.
+
+
+:::{.callout-tip appearance="simple"}
+Présentation ici : [https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html](https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html)
+:::
+
