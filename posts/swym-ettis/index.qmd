@@ -1,0 +1,9 @@
+---
+title: "Utilisation du machine learning pour la prédiction du risque noyade sur le littoral girondin"
+author: "David Carayon"
+date: "2023-03-15"
+categories: [ETTIS, TWIX, Machine learning, slides]
+image: "2023-03-21-10-11-16.png"
+citation: true
+---
+[![Cliquer sur l'image pour accéder aux slides](2023-03-21-10-11-16.png)](https://davidcarayon.github.io/slides/talks/TWIX/slides_TWIX)

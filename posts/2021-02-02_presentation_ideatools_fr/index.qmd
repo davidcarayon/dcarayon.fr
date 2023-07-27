@@ -1,0 +1,9 @@
+---
+title: "Présentation d'IDEATools"
+author: "David CARAYON"
+date: "2021-02-02"
+categories: [IDEATools, IDEA4, slides]
+image: 2023-03-20-10-43-12.png
+---
+
+[![Cliquer sur l'image pour accéder aux slides](2023-03-20-10-43-12.png)](https://forgemia.inra.fr/david.carayon/slides/-/raw/main/teaching/2021-02-02_presentation_ideatools_fr/slides_ideatools_fr.pdf)

@@ -1,0 +1,50 @@
+---
+title: "About me"
+image: profile.jpg
+about:
+  image-width: 20em
+  image-shape: rounded
+  template: trestles
+  links:
+      - icon: git
+        text: Gitlab
+        href: https://forgemia.inra.fr/david.carayon
+      - icon: github
+        text: Github
+        href: https://github.com/davidcarayon
+      - icon: book
+        text: CV-HAL
+        href: https://cv.hal.science/david-carayon
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/david_carayon
+      - icon: linkedin
+        text: Linkedin
+        href: https://www.linkedin.com/in/carayon-david/
+---
+
+
+::: {.column-page}
+
+My name is David Carayon and I'm a statistician / Data Scientist at the French National Research Institute for Agriculture, Food and the Environment (INRAE).
+
+My work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.
+
+My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.
+
+#### Selected R packages and projects
+
+{{< fa cube >}} **[IDEATools](https://cran.r-project.org/web/packages/IDEATools/index.html)** | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method [here](https://methode-idea.org)) 
+
+{{< fa laptop >}} **[ShinyIDEA](https://forgemia.inra.fr/sk8/sk8-apps/ettis/shinyidea)** | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app [here](https://shinyidea.sk8.inrae.fr/))
+
+{{< fa cube >}} **[InraeThemes](https://davidcarayon.github.io/InraeThemes/)** | Unofficial ggplot2, Rmarkdown, Sass and Quarto themes based on my research institute graphical charter.
+
+{{< fa network-wired >}} **[SK8](https://sk8.inrae.fr)** | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation [here](https://hal.inrae.fr/hal-04141247v1/document))
+
+{{< fa cube >}} **[IDGF](https://github.com/davidcarayon/IDGF)** | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper [here](https://doi.org/10.1016/j.ecolind.2020.106248))
+
+
+:::
+
+

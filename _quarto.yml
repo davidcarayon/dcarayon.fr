@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Carayon"
+  twitter-card:
+    creator: "@david_carayon"
+  navbar:
+    left:
+      - text: Slides
+        icon: file-earmark-easel
+        href: slides.html
+      - icon: book
+        text: Papers
+        href: https://cv.hal.science/david-carayon
+    right:
+      - text: "Home"
+        href: index.html
+      - icon: git
+        href: https://forgemia.inra.fr/david.carayon
+      - icon: github
+        href: https://github.com/davidcarayon
+      - icon: twitter
+        href: https://twitter.com/david_carayon
+      - icon: linkedin
+        href: https://www.linkedin.com/in/carayon-david/
+format:
+  html:
+    theme: litera
+    css: styles.css
+
+
+
