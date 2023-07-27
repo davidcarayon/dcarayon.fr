@@ -2,10 +2,10 @@
   {
     "listing": "/slides.html",
     "items": [
-      "/posts/2023-06-06_Bulledr_01/index.html",
-      "/posts/SK8/index.html",
-      "/posts/swym-ettis/index.html",
-      "/posts/2021-02-02_presentation_ideatools_fr/index.html"
+      "/slides/WCDP23/index.html",
+      "/slides/Bulledr/index.html",
+      "/slides/EABX_SK8/index.html",
+      "/slides/Presentation_IDEATools/index.html"
     ]
   }
 ]
