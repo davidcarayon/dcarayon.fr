@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About me",
+    "objectID": "posts/2021-02-02_presentation_ideatools_fr/index.html",
+    "href": "posts/2021-02-02_presentation_ideatools_fr/index.html",
+    "title": "Présentation d’IDEATools",
     "section": "",
-    "text": "My name is David Carayon and I’m a statistician / Data Scientist at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\nMy work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.\nMy main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.\n\nSelected R packages and projects\n IDEATools | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method here)\n ShinyIDEA | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app here)\n InraeThemes | Unofficial ggplot2, Rmarkdown, Sass and Quarto themes based on my research institute graphical charter.\n SK8 | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation here)\n IDGF | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper here)"
-  },
-  {
-    "objectID": "posts/swym-ettis/index.html",
-    "href": "posts/swym-ettis/index.html",
-    "title": "Utilisation du machine learning pour la prédiction du risque noyade sur le littoral girondin",
-    "section": "",
-    "text": "Cliquer sur l’image pour accéder aux slides\n\n\n\n\n\nCitationBibTeX citation:@online{carayon2023,\n  author = {Carayon, David},\n  title = {Utilisation Du Machine Learning Pour La Prédiction Du Risque\n    Noyade Sur Le Littoral Girondin},\n  date = {2023-03-15},\n  url = {https://davidcarayon.github.io/dcarayon.fr//posts/swym-ettis},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCarayon, David. 2023. “Utilisation Du Machine Learning Pour La\nPrédiction Du Risque Noyade Sur Le Littoral Girondin.” March 15,\n2023. https://davidcarayon.github.io/dcarayon.fr//posts/swym-ettis."
+    "text": "Cliquer sur l’image pour accéder aux slides"
   },
   {
     "objectID": "posts/2023-06-06_Bulledr_01/index.html",
@@ -21,6 +14,20 @@
     "text": "Cliquer sur l’image pour accéder aux slides"
   },
   {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Quarto and Rmarkdown slides",
+    "section": "",
+    "text": "Bulle d'R n°1 : Bonnes pratiques à ETTIS\n\n\n\nFormation\nBulle d'R\nETTIS\nslides\nINRAE\n\n\n\n\n\n\n\n`Jun 6, 2023`{=html}\nDavid CARAYON, Sandrine LYSER\n\n\n\n\n  \n\n\n\n\nPrésentation du projet SK8\n\n\n\n\n\n\n\nSK8\n\n\nslides\n\n\nINRAE\n\n\n\n\n\n\n\n\n\n\n\nMay 26, 2023\n\n\nDavid CARAYON\n\n\n\n\n\n\n  \n\n\n\n\nUtilisation du machine learning pour la prédiction du risque noyade sur le littoral girondin\n\n\n\n\n\n\n\nETTIS\n\n\nTWIX\n\n\nMachine learning\n\n\nslides\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nDavid Carayon\n\n\n\n\n\n\n  \n\n\n\n\nPrésentation d’IDEATools\n\n\n\n\n\n\n\nIDEATools\n\n\nIDEA4\n\n\nslides\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2021\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About me",
+    "section": "",
+    "text": "My name is David Carayon and I’m a statistician / Data Scientist at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\nMy work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.\nMy main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.\n\nSelected R packages and projects\n IDEATools | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method here)\n ShinyIDEA | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app here)\n InraeThemes | Unofficial ggplot2, Rmarkdown, Sass and Quarto themes based on my research institute graphical charter.\n SK8 | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation here)\n IDGF | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper here)"
+  },
+  {
     "objectID": "posts/SK8/index.html",
     "href": "posts/SK8/index.html",
     "title": "Présentation du projet SK8",
@@ -28,17 +35,10 @@
     "text": "Cliquer sur l’image pour accéder aux slides"
   },
   {
-    "objectID": "posts/2021-02-02_presentation_ideatools_fr/index.html",
-    "href": "posts/2021-02-02_presentation_ideatools_fr/index.html",
-    "title": "Présentation d’IDEATools",
+    "objectID": "posts/swym-ettis/index.html",
+    "href": "posts/swym-ettis/index.html",
+    "title": "Utilisation du machine learning pour la prédiction du risque noyade sur le littoral girondin",
     "section": "",
-    "text": "Cliquer sur l’image pour accéder aux slides"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Quarto and Rmarkdown slides",
-    "section": "",
-    "text": "Bulle d'R n°1 : Bonnes pratiques à ETTIS\n\n\n\nFormation\nBulle d'R\nETTIS\nslides\nINRAE\n\n\n\n\n\n\n\n`Jun 6, 2023`{=html}\nDavid CARAYON, Sandrine LYSER\n\n\n\n\n  \n\n\n\n\nPrésentation du projet SK8\n\n\n\n\n\n\n\nSK8\n\n\nslides\n\n\nINRAE\n\n\n\n\n\n\n\n\n\n\n\nMay 26, 2023\n\n\nDavid CARAYON\n\n\n\n\n\n\n  \n\n\n\n\nUtilisation du machine learning pour la prédiction du risque noyade sur le littoral girondin\n\n\n\n\n\n\n\nETTIS\n\n\nTWIX\n\n\nMachine learning\n\n\nslides\n\n\n\n\n\n\n\n\n\n\n\nMar 15, 2023\n\n\nDavid Carayon\n\n\n\n\n\n\n  \n\n\n\n\nPrésentation d’IDEATools\n\n\n\n\n\n\n\nIDEATools\n\n\nIDEA4\n\n\nslides\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2021\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
+    "text": "Cliquer sur l’image pour accéder aux slides\n\n\n\n\n\nCitationBibTeX citation:@online{carayon2023,\n  author = {Carayon, David},\n  title = {Utilisation Du Machine Learning Pour La Prédiction Du Risque\n    Noyade Sur Le Littoral Girondin},\n  date = {2023-03-15},\n  url = {https://github.com/davidcarayon/dcarayon.fr/posts/swym-ettis},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCarayon, David. 2023. “Utilisation Du Machine Learning Pour La\nPrédiction Du Risque Noyade Sur Le Littoral Girondin.” March 15,\n2023. https://github.com/davidcarayon/dcarayon.fr/posts/swym-ettis."
   }
 ]
