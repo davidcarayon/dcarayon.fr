@@ -8,8 +8,22 @@ image: thumbnail.png
 
 Slides for our communication for the WCDP2023 in Perth
 
-:::{.callout-tip appearance="minimal"}
-slides here :point_right: [https://davidcarayon.github.io/slides/talks/WCDP23](https://davidcarayon.github.io/slides/talks/WCDP23)
+::: {.callout-tip appearance="minimal"}
+slides here :point_right: <https://davidcarayon.github.io/slides/talks/WCDP23>
 :::
 
+## Abstract
 
+**Background**: Southwest France golden-sand beaches are very popular destination for bathing and other sea activities in summer. However, they are also potentially dangerous environments with increased risk of accidents in unsupervised areas, especially during the off-peak season, due to strong rip-current and shorebreak waves. Predicting and quantifying these accidents is of major importance for public communication and emergency services management. Previous work on beach risk prediction was conducted along a specific section of the coast (Gironde), using data from 2011-2017 to train a model and further predict drowning incidents based on sea and weather forecasts, which has led to the development of an alert system based on a logistic regression model used by local decision makers \[1\].
+
+**Methods**: In this study, we further improve this model by using new statistical methods related to machine learning, a larger dataset (2011-2022) and by including spatialization in order to propose a modelling framework that could be generalized to other coasts. We estimated drowning risk as a combination of hazard (ocean conditions) and exposure (beachgoer crowd). Several machine learning models were trained and compared using 3-day weather and sea forecasts from 2011 to 2022 as predictors along with an emergency calls database used as an outcome on the same time frame. The training set covered 188 drowning events over 1988 days while the test set covered 78 events over 663 days.
+
+**Results**: Our results show this new modeling framework is able to predict days with the highest risk of drowning events with improved accuracy on the Gironde coast: AUC = 0.9 (95% CI 0.89 to 0.91), PPV = 0.48 (95%CI 0.41 to 0.55) and NPV = 0.98 (95%CI 0.97 to 0.99).
+
+**Conclusions**: This supports the development of a new alert system that will provide useful information to decision makers. However, "all models are wrong, but some are useful" \[2\]. While this model could still be improved, with further feature engineering and improved data for rescues, this work also addresses the issue of identifying the right criteria to define what would actually be the "best" model depending on risk management policies set by decision makers.
+
+## References
+
+\[1\] Tellier, Éric, Bruno Simonnet, Cédric Gil-Jardiné, Marion Lerouge-Bailhache, Bruno Castelle, and Rachid Salmi. 2022. \"Predicting Drowning from Sea and Weather Forecasts: Development and Validation of a Model on Surf Beaches of Southwestern France.\" Injury Prevention 28 (1): 16--22.
+
+*\[2\] Box, George E. P. (1976), ["Science and statistics"](http://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf), [Journal of the American Statistical Association](https://en.wikipedia.org/wiki/Journal_of_the_American_Statistical_Association), **71** (356): 791--799*

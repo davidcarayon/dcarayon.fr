@@ -20,9 +20,7 @@ website:
         href: https://cv.hal.science/david-carayon
     right:
       - text: "Home"
-        href: index.html
-      - icon: git
-        href: https://forgemia.inra.fr/david.carayon
+        href: index.html 
       - icon: github
         href: https://github.com/davidcarayon
       - icon: twitter
@@ -31,7 +29,7 @@ website:
         href: https://www.linkedin.com/in/carayon-david/
 format:
   html:
-    theme: litera
+    theme: flatly
     css: styles.css
 from: markdown+emoji
 

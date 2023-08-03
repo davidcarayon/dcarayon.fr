@@ -6,9 +6,6 @@ about:
   image-shape: rounded
   template: trestles
   links:
-      - icon: git
-        text: Gitlab
-        href: https://forgemia.inra.fr/david.carayon
       - icon: github
         text: Github
         href: https://github.com/davidcarayon
