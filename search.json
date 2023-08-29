@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "slides/Presentation_IDEATools/index.html",
+    "href": "slides/Presentation_IDEATools/index.html",
+    "title": "Présentation d’IDEATools",
+    "section": "",
+    "text": "Présentation rapide du package R {IDEATools}.\n\n\n\n\n\n\nslides here 👉 https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf"
+  },
+  {
+    "objectID": "slides/EABX_SK8/index.html",
+    "href": "slides/EABX_SK8/index.html",
+    "title": "Présentation du projet SK8",
+    "section": "",
+    "text": "Présentation du projet SK8 lors du café données de l’UR EABX.\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/EABX_SK8"
+  },
+  {
     "objectID": "slides/WCDP23/index.html",
     "href": "slides/WCDP23/index.html",
     "title": "Using machine learning to predict drownings in surf beaches of southwest France",
@@ -21,11 +35,11 @@
     "text": "References\n[1] Tellier, Éric, Bruno Simonnet, Cédric Gil-Jardiné, Marion Lerouge-Bailhache, Bruno Castelle, and Rachid Salmi. 2022. \"Predicting Drowning from Sea and Weather Forecasts: Development and Validation of a Model on Surf Beaches of Southwestern France.\" Injury Prevention 28 (1): 16–22.\n[2] Box, George E. P. (1976), “Science and statistics”, Journal of the American Statistical Association, 71 (356): 791–799"
   },
   {
-    "objectID": "slides/Bulledr/index.html",
-    "href": "slides/Bulledr/index.html",
-    "title": "Bulle d’R n°1 : Bonnes pratiques à ETTIS",
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
     "section": "",
-    "text": "Première session de formation annuelle aux bonnes pratiques R à ETTIS.\n\n\n\n\n\n\nPrésentation ici : https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html"
+    "text": "Date\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 4, 2023\n\n\nUsing machine learning to predict drownings in surf beaches of southwest France\n\n\nDavid CARAYON\n\n\n\n\nSep 29, 2023\n\n\nWebinaire CATI CITISES\n\n\nDavid CARAYON\n\n\n\n\nJun 6, 2023\n\n\nBulle d'R n°1 : Bonnes pratiques à ETTIS\n\n\nDavid CARAYON, Sandrine LYSER\n\n\n\n\nMay 26, 2023\n\n\nPrésentation du projet SK8\n\n\nDavid CARAYON\n\n\n\n\nFeb 2, 2021\n\n\nPrésentation d’IDEATools\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -35,24 +49,17 @@
     "text": "My name is David Carayon and I’m a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\nMy work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.\nMy main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.\n\nSelected R packages and projects\n IDEATools | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method here)\n ShinyIDEA | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app here)\n InraeThemes | Unofficial ggplot2, Rmarkdown, Sass and Quarto themes based on my research institute graphical charter.\n SK8 | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation here)\n IDGF | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper here)"
   },
   {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides",
+    "objectID": "slides/CITISES_SK8/index.html",
+    "href": "slides/CITISES_SK8/index.html",
+    "title": "Webinaire CATI CITISES",
     "section": "",
-    "text": "Using machine learning to predict drownings in surf beaches of southwest France\n\n\n\n\n\n\n\nWCDP\n\n\nslides\n\n\nDrowning\n\n\nMachine learning\n\n\n\n\n\n\n\n\n\n\n\nDec 4, 2023\n\n\nDavid CARAYON\n\n\n\n\n\n\n\n\n\n\n\nBulle d'R n°1 : Bonnes pratiques à ETTIS\n\n\n\nFormation\nBulle d'R\nETTIS\nslides\nINRAE\n\n\n\n\n\n\n\n`Jun 6, 2023`{=html}\nDavid CARAYON, Sandrine LYSER\n\n\n\n\n  \n\n\n\n\nPrésentation du projet SK8\n\n\n\n\n\n\n\nSK8\n\n\nslides\n\n\nINRAE\n\n\n\n\n\n\n\n\n\n\n\nMay 26, 2023\n\n\nDavid CARAYON\n\n\n\n\n\n\n  \n\n\n\n\nPrésentation d’IDEATools\n\n\n\n\n\n\n\nIDEATools\n\n\nIDEA4\n\n\nslides\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2021\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
+    "text": "Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/CITISES_SK8"
   },
   {
-    "objectID": "slides/Presentation_IDEATools/index.html",
-    "href": "slides/Presentation_IDEATools/index.html",
-    "title": "Présentation d’IDEATools",
+    "objectID": "slides/Bulledr/index.html",
+    "href": "slides/Bulledr/index.html",
+    "title": "Bulle d’R n°1 : Bonnes pratiques à ETTIS",
     "section": "",
-    "text": "Présentation rapide du package R {IDEATools}.\n\n\n\n\n\n\nslides here 👉 https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf"
-  },
-  {
-    "objectID": "slides/EABX_SK8/index.html",
-    "href": "slides/EABX_SK8/index.html",
-    "title": "Présentation du projet SK8",
-    "section": "",
-    "text": "Présentation du projet SK8 lors du café données de l’UR EABX.\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/EABX_SK8"
+    "text": "Première session de formation annuelle aux bonnes pratiques R à ETTIS.\n\n\n\n\n\n\nPrésentation ici : https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html"
   }
 ]

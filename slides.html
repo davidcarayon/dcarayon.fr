@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -96,11 +96,8 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta name="twitter:title" content="David Carayon - Slides">
-<meta name="twitter:image" content="https://github.com/davidcarayon/dcarayon.fr/slides/WCDP23/thumbnail.png">
 <meta name="twitter:creator" content="@david_carayon">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
@@ -159,194 +156,111 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Slides</h1>
-                      </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Bulle d'R">Bulle d'R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Drowning">Drowning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ETTIS">ETTIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Formation">Formation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="IDEA4">IDEA4 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="IDEATools">IDEATools <span class="quarto-category-count">(1)</span></div><div class="category" data-category="INRAE">INRAE <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Machine learning">Machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SK8">SK8 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="WCDP">WCDP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(4)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Bulle d'R">Bulle d'R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="CATI">CATI <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Drowning">Drowning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ETTIS">ETTIS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Formation">Formation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="IDEA4">IDEA4 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="IDEATools">IDEATools <span class="quarto-category-count">(1)</span></div><div class="category" data-category="INRAE">INRAE <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Machine learning">Machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SK8">SK8 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="WCDP">WCDP <span class="quarto-category-count">(1)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Slides</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
 
 
 
 
 
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
 
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+Date
+</th>
+<th>
+Title
+</th>
+<th>
+Author
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="WCDP,slides,Drowning,Machine learning" data-listing-date-sort="1701648000000" data-listing-file-modified-sort="1693295471550" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Using machine learning to predict drownings in surf beaches of southwest France" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Dec 4, 2023</span>
+</td>
+<td>
+<a href="./slides/WCDP23/index.html" class="title listing-title">Using machine learning to predict drownings in surf beaches of southwest France</a>
+</td>
+<td>
+<span class="listing-author">David CARAYON</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="SK8,slides,INRAE,CATI" data-listing-date-sort="1695945600000" data-listing-file-modified-sort="1693295471546" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Webinaire CATI CITISES" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Sep 29, 2023</span>
+</td>
+<td>
+<a href="./slides/CITISES_SK8/index.html" class="title listing-title">Webinaire CATI CITISES</a>
+</td>
+<td>
+<span class="listing-author">David CARAYON</span>
+</td>
+</tr>
+<tr data-index="2" data-categories="Formation,Bulle d" r,ettis,slides,inrae'="" data-listing-date-sort="1686009600000" data-listing-file-modified-sort="1693295471546" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Bulle d'R n°1 : Bonnes pratiques à ETTIS" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Jun 6, 2023</span>
+</td>
+<td>
+<a href="./slides/Bulledr/index.html" class="title listing-title">Bulle d'R n°1 : Bonnes pratiques à ETTIS</a>
+</td>
+<td>
+<span class="listing-author">David CARAYON, Sandrine LYSER</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="SK8,slides,INRAE" data-listing-date-sort="1685059200000" data-listing-file-modified-sort="1693295471546" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Présentation du projet SK8" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">May 26, 2023</span>
+</td>
+<td>
+<a href="./slides/EABX_SK8/index.html" class="title listing-title">Présentation du projet SK8</a>
+</td>
+<td>
+<span class="listing-author">David CARAYON</span>
+</td>
+</tr>
+<tr data-index="4" data-categories="IDEATools,IDEA4,slides" data-listing-date-sort="1612224000000" data-listing-file-modified-sort="1693295471550" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Présentation d'IDEATools" data-listing-filename-sort="index.qmd">
+<td>
+<span class="listing-date">Feb 2, 2021</span>
+</td>
+<td>
+<a href="./slides/Presentation_IDEATools/index.html" class="title listing-title">Présentation d’IDEATools</a>
+</td>
+<td>
+<span class="listing-author">David CARAYON</span>
+</td>
+</tr>
+</tbody>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="WCDP,slides,Drowning,Machine learning" data-listing-date-sort="1701648000000" data-listing-file-modified-sort="1691093679475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<div class="thumbnail">
-<p><a href="./slides/WCDP23/index.html"> <img src="./slides/WCDP23/thumbnail.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./slides/WCDP23/index.html">
-<h3 class="no-anchor listing-title">
-Using machine learning to predict drownings in surf beaches of southwest France
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('WCDP'); return false;">
-WCDP
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
-slides
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Drowning'); return false;">
-Drowning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Machine learning'); return false;">
-Machine learning
-</div>
-</div>
-<a href="./slides/WCDP23/index.html">
-<div class="listing-description">
-Slides for our communication for the WCDP2023 in Perth
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./slides/WCDP23/index.html">
-<div class="listing-date">
-Dec 4, 2023
-</div>
-<div class="listing-author">
-David CARAYON
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Formation,Bulle d" r,ettis,slides,inrae'="" data-listing-date-sort="1686009600000" data-listing-file-modified-sort="1691093679475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<a href="./slides/Bulledr/index.html">
-<img src="https://github.com/statire/bulledr/raw/main/logo-bulledr.png" class="thumbnail-image">
-</a>
-</div>
-<div class="body"><a href="./slides/Bulledr/index.html">
-<h3 class="no-anchor listing-title">Bulle d'R n°1 : Bonnes pratiques à ETTIS</h3>
-<div class="listing-subtitle"></div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Formation'); return false;">Formation</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Bulle d'R'); return false;">Bulle d'R</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ETTIS'); return false;">ETTIS</div>
-<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">slides</div>
-<div class="listing-category" onclick="window.quartoListingCategory('INRAE'); return false;">INRAE</div>
-</div>
-<a href="./slides/Bulledr/index.html">
-<div class="delink listing-description">
-Première session de formation annuelle aux bonnes pratiques R à ETTIS.
-</div>
-</a></div>
-<div class="metadata"><a href="./slides/Bulledr/index.html">
-<div class="listing-date">`Jun 6, 2023`{=html}</div>
-<div class="listing-author">David CARAYON, Sandrine LYSER</div>
-</a></div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="SK8,slides,INRAE" data-listing-date-sort="1685059200000" data-listing-file-modified-sort="1691093679475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./slides/EABX_SK8/index.html"> <img src="https://sk8.inrae.fr/images/SK8-logo-trans-128.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./slides/EABX_SK8/index.html">
-<h3 class="no-anchor listing-title">
-Présentation du projet SK8
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SK8'); return false;">
-SK8
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
-slides
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('INRAE'); return false;">
-INRAE
-</div>
-</div>
-<a href="./slides/EABX_SK8/index.html">
-<div class="listing-description">
-Présentation du projet SK8 lors du café données de l’UR EABX.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./slides/EABX_SK8/index.html">
-<div class="listing-date">
-May 26, 2023
-</div>
-<div class="listing-author">
-David CARAYON
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="IDEATools,IDEA4,slides" data-listing-date-sort="1612224000000" data-listing-file-modified-sort="1691093679475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./slides/Presentation_IDEATools/index.html"> <img src="https://davidcarayon.github.io/IDEATools/reference/figures/logo.png" class="thumbnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./slides/Presentation_IDEATools/index.html">
-<h3 class="no-anchor listing-title">
-Présentation d’IDEATools
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('IDEATools'); return false;">
-IDEATools
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('IDEA4'); return false;">
-IDEA4
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('slides'); return false;">
-slides
-</div>
-</div>
-<a href="./slides/Presentation_IDEATools/index.html">
-<div class="listing-description">
-Présentation rapide du package R {IDEATools}.
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./slides/Presentation_IDEATools/index.html">
-<div class="listing-date">
-Feb 2, 2021
-</div>
-<div class="listing-author">
-David CARAYON
-</div>
-</a>
-</div>
-</div>
-</div>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
