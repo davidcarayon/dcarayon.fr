@@ -1,0 +1,15 @@
+---
+title: "Webinaire CATI CITISES"
+author: "David CARAYON"
+date: "2023-09-29"
+categories: [SK8, slides, INRAE, CATI]
+image: "https://sk8.inrae.fr/images/SK8-logo-trans-128.png"
+---
+
+
+Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023
+
+
+:::{.callout-tip appearance="simple"}
+Présentation ici : [https://davidcarayon.github.io/slides/talks/CITISES_SK8](https://davidcarayon.github.io/slides/talks/CITISES_SK8)
+:::
