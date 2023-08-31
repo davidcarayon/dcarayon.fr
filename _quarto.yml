@@ -29,7 +29,6 @@ website:
         href: https://www.linkedin.com/in/carayon-david/
 format:
   html:
-    theme: flatly
     css: styles.css
 from: markdown+emoji
 
