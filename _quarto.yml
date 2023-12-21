@@ -12,7 +12,7 @@ website:
     creator: "@david_carayon"
   navbar:
     left:
-      - text: Slides
+      - text: Public slides
         icon: file-earmark-easel
         href: slides.html
       - icon: book

@@ -1,6 +1,6 @@
 ---
 title: "About me"
-image: profile.jpg
+image: profile.png
 about:
   image-width: 20em
   image-shape: rounded
