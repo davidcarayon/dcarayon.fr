@@ -7,9 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="David CARAYON">
-<meta name="dcterms.date" content="2023-09-29">
+<meta name="dcterms.date" content="2024-03-11">
+<meta name="description" content="Some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community">
 
-<title>David Carayon - Webinaire CATI CITISES</title>
+<title>David Carayon - Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,17 +72,19 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta name="twitter:title" content="David Carayon - Webinaire CATI CITISES">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://sk8.inrae.fr/images/SK8-logo-trans-128.png">
+<meta name="twitter:title" content="David Carayon - Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0">
+<meta name="twitter:description" content="Some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community">
+<meta name="twitter:image" content="https://davidcarayon.github.io/dcarayon.fr/blog/InraeThemes_Quarto/assets/logo_inrae_quarto.png">
 <meta name="twitter:creator" content="@david_carayon">
+<meta name="twitter:image-height" content="866">
+<meta name="twitter:image-width" content="1617">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -140,64 +143,74 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">Webinaire CATI CITISES</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">SK8</div>
-                <div class="quarto-category">slides</div>
-                <div class="quarto-category">INRAE</div>
-                <div class="quarto-category">CATI</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Author</div>
-      <div class="quarto-title-meta-contents">
-               <p>David CARAYON </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Published</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">September 29, 2023</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">INRAE</div>
+    <div class="quarto-category">package</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">templates</div>
+    <div class="quarto-category">quarto</div>
+  </div>
+  </div>
 
-
-
-
-<p>Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023</p>
-<div class="callout callout-style-simple callout-tip">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<div>
+  <div class="description">
+    Some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community
+  </div>
 </div>
-<div class="callout-body-container">
-<p>Présentation ici : <a href="https://davidcarayon.github.io/slides/talks/CITISES_SK8">https://davidcarayon.github.io/slides/talks/CITISES_SK8</a></p>
-</div>
-</div>
-</div>
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>David CARAYON </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 11, 2024</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Hi <span class="emoji" data-emoji="wave">👋</span> <img src="assets/logo_inrae_quarto.png" align="right" width="40%"></p>
+<p>For my first blog post ever, I wanted to share some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community - <code>{InraeThemes}</code> and <code>quarto-inrae-extension</code>. Originally conceived as personal projects to explore R and Quarto features, these tools have found their way into various research units and collaborations.</p>
+<p>Seeing the growing adoption of these projects, and especially since the Quarto extension got a spot on the <a href="https://quarto.org/docs/extensions/listing-formats.html">official Quarto website</a>, I thought it was time to give them a bit of a facelift.</p>
+<p>Here’s what’s new on the latest versions:</p>
+<section id="inraethemes-3.0.0-refining-visualization-and-design" class="level3">
+<h3 class="anchored" data-anchor-id="inraethemes-3.0.0-refining-visualization-and-design">InraeThemes 3.0.0: Refining Visualization and Design <span class="emoji" data-emoji="art">🎨</span></h3>
+<p>InraeThemes, my R package for ggplot themes and Bootstrap-based themes for RShiny applications, has received some updates. With a nod to INRAE branding guidelines, this release aims to enhance the visual experience for data visualization and application development. Check out the latest version on <a href="https://github.com/davidcarayon/InraeThemes">GitHub</a>.</p>
+</section>
+<section id="quarto-inrae-extension-streamlining-document-formatting" class="level3">
+<h3 class="anchored" data-anchor-id="quarto-inrae-extension-streamlining-document-formatting">Quarto-Inrae-Extension: Streamlining Document Formatting <span class="emoji" data-emoji="page_facing_up">📄</span></h3>
+<p>The quarto-inrae-extension has undergone some changes, evolving into a more comprehensive solution for document formatting. Offering templates for standalone documents (HTML, PDF via Typst, docx, pptx, revealJS, and beamer), as well as Quarto projects (static websites, books, and manuscripts), this extension provides users with a versatile set of tools. Explore the updates on <a href="https://github.com/davidcarayon/quarto-inrae-extension">GitHub</a>.</p>
+<p>Both of these projects are meant to be collaborative, and I welcome any suggestions or, even better, pull requests! Special thanks to those who have already contributed (S.Boutry, E. Maigné, C. Midoux).</p>
+<p>And of course, if you are using these tools, feel free to let me know! Unfortunately, I don’t have a way to monitor their usage on GitHub. Your real-life examples would be highly appreciated!</p>
+<p>(R-)Quarto-ly yours,</p>
+<p>David</p>
+
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
