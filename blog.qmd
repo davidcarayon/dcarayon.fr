@@ -1,9 +1,8 @@
 ---
-title: "Slides"
+title: "Blog"
 listing:
-  contents: slides
+  contents: blog
   sort: "date desc"
-  type: grid
   categories: true
   sort-ui: false
   filter-ui: false

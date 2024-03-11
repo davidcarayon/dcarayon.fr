@@ -1,26 +1,35 @@
 project:
   type: website
   output-dir: docs
-  resources: slides/WCDP23/banner.png
+  resources: 
+    - slides/WCDP23/banner.png
+    - assets
   
 execute: 
   freeze: auto
 
 website:
   title: "David Carayon"
+  favicon: assets/favicon.ico
   twitter-card:
     creator: "@david_carayon"
   navbar:
+    background: "#170c3a"
+    foreground: light
     left:
+      - text: "Home"
+        href: index.html 
+        icon: house
       - text: Public slides
         icon: file-earmark-easel
         href: slides.html
+      - text: Blog
+        icon: newspaper
+        href: blog.html
       - icon: book
         text: Papers
         href: https://cv.hal.science/david-carayon
     right:
-      - text: "Home"
-        href: index.html 
       - icon: github
         href: https://github.com/davidcarayon
       - icon: twitter
@@ -29,7 +38,9 @@ website:
         href: https://www.linkedin.com/in/carayon-david/
 format:
   html:
-    css: styles.css
+    theme: assets/custom.scss
+    grid: 
+      body-width: 900px
 from: markdown+emoji
 
 

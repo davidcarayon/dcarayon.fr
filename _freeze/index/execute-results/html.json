@@ -1,0 +1,15 @@
+{
+  "hash": "374af3d940fda776c73f73482fb04f89",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Hi there !\"\nimage: profile.png\ntitle-block-banner: \"#CF4446\"\nabout:\n  image-width: 20em\n  image-shape: rounded\n  template: trestles\n  links:\n      - icon: github\n        text: Github\n        href: https://github.com/davidcarayon\n      - icon: book\n        text: CV-HAL\n        href: https://cv.hal.science/david-carayon\n      - icon: twitter\n        text: Twitter\n        href: https://twitter.com/david_carayon\n      - icon: linkedin\n        text: Linkedin\n        href: https://www.linkedin.com/in/carayon-david/\nfrom: markdown+emoji\n---\n\n\n\n::: {.column-page}\n\nMy name is David Carayon and I'm a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\n\nMy work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.\n\nMy main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.\n\n#### Selected R packages and projects\n\n{{< fa cube >}} **[IDEATools](https://cran.r-project.org/web/packages/IDEATools/index.html)** | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method [here](https://methode-idea.org)) \n\n{{< fa laptop >}} **[ShinyIDEA](https://forgemia.inra.fr/sk8/sk8-apps/ettis/shinyidea)** | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app [here](https://shinyidea.sk8.inrae.fr/))\n\n{{< fa cube >}} **[InraeThemes](https://davidcarayon.github.io/InraeThemes/)** | Unofficial collection of templates and themes in line with INRAE's design system.\n\n{{< fa code >}} **[quarto-inrae-extension](https://github.com/davidcarayon/quarto-inrae-extension)** | Unofficial collection of quarto-based formats for INRAE engineers and researchers\n\n{{< fa network-wired >}} **[SK8](https://sk8.inrae.fr)** | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation [here](https://hal.inrae.fr/hal-04141247v1/document))\n\n{{< fa cube >}} **[IDGF](https://github.com/davidcarayon/IDGF)** | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper [here](https://doi.org/10.1016/j.ecolind.2020.106248))\n\n\n:::\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n\"#CF4446\"\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] \"#CF4446\"\n```\n\n\n:::\n:::",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,33 @@
+---
+title: "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0"
+author: "David CARAYON"
+date: today
+categories: [INRAE, package, R, templates, quarto]
+image: "assets/logo_inrae_quarto.png"
+from: markdown+emoji
+description: "Some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community"
+---
+
+Hi :wave: <img src="assets/logo_inrae_quarto.png" align="right" width="40%"/>
+
+For my first blog post ever, I wanted to share some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community - `{InraeThemes}` and `quarto-inrae-extension`. Originally conceived as personal projects to explore R and Quarto features, these tools have found their way into various research units and collaborations.
+
+Seeing the growing adoption of these projects, and especially since the Quarto extension got a spot on the [official Quarto website](https://quarto.org/docs/extensions/listing-formats.html), I thought it was time to give them a bit of a facelift.
+
+Here's what's new on the latest versions:
+
+### InraeThemes 3.0.0: Refining Visualization and Design :art:
+
+InraeThemes, my R package for ggplot themes and Bootstrap-based themes for RShiny applications, has received some updates. With a nod to INRAE branding guidelines, this release aims to enhance the visual experience for data visualization and application development. Check out the latest version on [GitHub](https://github.com/davidcarayon/InraeThemes).
+
+### Quarto-Inrae-Extension: Streamlining Document Formatting :page_facing_up:
+
+The quarto-inrae-extension has undergone some changes, evolving into a more comprehensive solution for document formatting. Offering templates for standalone documents (HTML, PDF via Typst, docx, pptx, revealJS, and beamer), as well as Quarto projects (static websites, books, and manuscripts), this extension provides users with a versatile set of tools. Explore the updates on [GitHub](https://github.com/davidcarayon/quarto-inrae-extension).
+
+Both of these projects are meant to be collaborative, and I welcome any suggestions or, even better, pull requests! Special thanks to those who have already contributed (S.Boutry, E. Maigné, C. Midoux).
+
+And of course, if you are using these tools, feel free to let me know! Unfortunately, I don't have a way to monitor their usage on GitHub. Your real-life examples would be highly appreciated!
+
+(R-)Quarto-ly yours,
+
+David
