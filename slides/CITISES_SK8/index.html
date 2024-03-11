@@ -115,6 +115,35 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text">Papers</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-main-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-code-square" role="img">
+</i> 
+ <span class="menu-text">Main projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-main-projects">    
+        <li>
+    <a class="dropdown-item" href="https://cran.r-project.org/web/packages/IDEATools/index.html"><i class="bi bi-box" role="img">
+</i> 
+ <span class="dropdown-text">IDEATools</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/davidcarayon/InraeThemes"><i class="bi bi-box" role="img">
+</i> 
+ <span class="dropdown-text">InraeThemes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/davidcarayon/quarto-inrae-extension"><i class="bi bi-file-earmark-easel" role="img">
+</i> 
+ <span class="dropdown-text">quarto-inrae-extension</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://sk8.inrae.fr"><i class="bi bi-code" role="img">
+</i> 
+ <span class="dropdown-text">SK8</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -281,7 +310,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/davidcarayon\.github\.io\/dcarayon\.fr\/");
+      var filterRegex = new RegExp("https:\/\/dcarayon\.fr");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

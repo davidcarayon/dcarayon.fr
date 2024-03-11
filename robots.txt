@@ -1,1 +1,1 @@
-Sitemap: https://davidcarayon.github.io/dcarayon.fr/sitemap.xml
+Sitemap: https://dcarayon.fr/sitemap.xml

@@ -39,8 +39,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta name="twitter:title" content="David Carayon - Hi there !">
-<meta name="twitter:image" content="https://davidcarayon.github.io/dcarayon.fr/profile.png">
+<meta name="twitter:image" content="https://dcarayon.fr/profile.png">
 <meta name="twitter:creator" content="@david_carayon">
 <meta name="twitter:image-height" content="1000">
 <meta name="twitter:image-width" content="1000">
@@ -121,6 +119,35 @@ ul.task-list li input[type="checkbox"] {
 </i> 
 <span class="menu-text">Papers</span></a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-main-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+      <i class="bi bi-code-square" role="img">
+</i> 
+ <span class="menu-text">Main projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-main-projects">    
+        <li>
+    <a class="dropdown-item" href="https://cran.r-project.org/web/packages/IDEATools/index.html"><i class="bi bi-box" role="img">
+</i> 
+ <span class="dropdown-text">IDEATools</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/davidcarayon/InraeThemes"><i class="bi bi-box" role="img">
+</i> 
+ <span class="dropdown-text">InraeThemes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://github.com/davidcarayon/quarto-inrae-extension"><i class="bi bi-file-earmark-easel" role="img">
+</i> 
+ <span class="dropdown-text">quarto-inrae-extension</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://sk8.inrae.fr"><i class="bi bi-code" role="img">
+</i> 
+ <span class="dropdown-text">SK8</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -188,15 +215,6 @@ ul.task-list li input[type="checkbox"] {
 <p>My name is David Carayon and I’m a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).</p>
 <p>My work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.</p>
 <p>My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.</p>
-<section id="selected-r-packages-and-projects" class="level4">
-<h4 data-anchor-id="selected-r-packages-and-projects">Selected R packages and projects</h4>
-<p><i class="fa-solid fa-cube" aria-label="cube"></i> <strong><a href="https://cran.r-project.org/web/packages/IDEATools/index.html">IDEATools</a></strong> | Individual and Group Farm Sustainability Assessments using the IDEA4 Method (more info on this method <a href="https://methode-idea.org">here</a>)</p>
-<p><i class="fa-solid fa-laptop" aria-label="laptop"></i> <strong><a href="https://forgemia.inra.fr/sk8/sk8-apps/ettis/shinyidea">ShinyIDEA</a></strong> | An R Shiny App providing the IDEATools package functions in an easy to use user interface. (live app <a href="https://shinyidea.sk8.inrae.fr/">here</a>)</p>
-<p><i class="fa-solid fa-cube" aria-label="cube"></i> <strong><a href="https://davidcarayon.github.io/InraeThemes/">InraeThemes</a></strong> | Unofficial collection of templates and themes in line with INRAE’s design system.</p>
-<p><i class="fa-solid fa-code" aria-label="code"></i> <strong><a href="https://github.com/davidcarayon/quarto-inrae-extension">quarto-inrae-extension</a></strong> | Unofficial collection of quarto-based formats for INRAE engineers and researchers</p>
-<p><i class="fa-solid fa-network-wired" aria-label="network-wired"></i> <strong><a href="https://sk8.inrae.fr">SK8</a></strong> | An institutionnal project to deploy R Shiny apps through Kubernetes using GitLab/Kubernetes/Docker (French poster presentation <a href="https://hal.inrae.fr/hal-04141247v1/document">here</a>)</p>
-<p><i class="fa-solid fa-cube" aria-label="cube"></i> <strong><a href="https://github.com/davidcarayon/IDGF">IDGF</a></strong> | An R package dedicated to the French Guiana Diatom Index (FGDI) method (paper <a href="https://doi.org/10.1016/j.ecolind.2020.106248">here</a>)</p>
-</section>
 </div>
 
 
@@ -277,7 +295,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/davidcarayon\.github\.io\/dcarayon\.fr\/");
+      var filterRegex = new RegExp("https:\/\/dcarayon\.fr");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
