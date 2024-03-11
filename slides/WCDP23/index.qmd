@@ -4,9 +4,10 @@ author: "David CARAYON"
 date: "2023-12-04"
 categories: [WCDP, slides, Drowning, Machine learning]
 image: thumbnail.png
+description: Slides for our communication for the WCDP2023 in Perth (Australia)
 ---
 
-Slides for our communication for the WCDP2023 in Perth
+
 
 ::: {.callout-tip appearance="minimal"}
 slides here :point_right: <https://davidcarayon.github.io/slides/talks/WCDP23>

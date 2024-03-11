@@ -21,15 +21,12 @@ website:
       - text: "Home"
         href: index.html 
         icon: house
-      - text: Public slides
+      - text: Slides
         icon: file-earmark-easel
         href: slides.html
       - text: Blog
         icon: newspaper
         href: blog.html
-      - icon: book
-        text: Papers
-        href: https://cv.hal.science/david-carayon
       - text: Main projects
         icon: code-square
         menu:
@@ -45,10 +42,15 @@ website:
         - text: "SK8"
           icon: code
           href: https://sk8.inrae.fr
+      - icon: book
+        text: Papers
+        href: https://cv.hal.science/david-carayon
 
     right:
       - icon: github
         href: https://github.com/davidcarayon
+      - icon: gitlab
+        href: https://forgemia.inra.fr/david.carayon
       - icon: twitter
         href: https://twitter.com/david_carayon
       - icon: linkedin

@@ -1,9 +1,10 @@
 ---
-title: "Bulle d'R n°1 : Bonnes pratiques à ETTIS"
+title: "Bulle d'R #1 : Best practises at ETTIS"
 author: "David CARAYON, Sandrine LYSER"
 date: "2023-06-06"
 categories: [Formation, Bulle d'R, ETTIS, slides, INRAE]
-image: "https://github.com/statire/bulledr/raw/main/logo-bulledr.png"
+image: "thumbnail.jpg"
+description: Yearly training given to interns about best practices about R programming in our research unit
 ---
 
 

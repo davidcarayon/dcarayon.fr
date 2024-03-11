@@ -1,9 +1,10 @@
 ---
-title: "Webinaire CATI CITISES"
+title: "SK8 webinar"
 author: "David CARAYON"
 date: "2023-09-29"
 categories: [SK8, slides, INRAE, CATI]
 image: "https://sk8.inrae.fr/images/SK8-logo-trans-128.png"
+description: Webinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)
 ---
 
 

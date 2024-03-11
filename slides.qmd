@@ -2,13 +2,17 @@
 title: "Slides"
 listing:
   contents: slides
-  sort: "date desc"
   type: grid
-  categories: true
-  sort-ui: false
-  filter-ui: false
+  fields: [image, date, title, subtitle, description]
+  sort: "date desc"
+  categories: cloud
+  sort-ui: true
+  filter-ui: true
+  page-size: 36     
 page-layout: full
 title-block-banner: false
+comments: false
+toc: true
 ---
 
- 
+My public slides

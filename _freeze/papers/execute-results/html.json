@@ -1,0 +1,15 @@
+{
+  "hash": "f72642b481302c7596cb5563dc678fda",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: Papers\nbibliography: hal-david.bib\nnocite: |\n  @*\n---\n\n\n\n\n::: {#refs}\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
