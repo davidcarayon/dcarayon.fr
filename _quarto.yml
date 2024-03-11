@@ -3,7 +3,8 @@ project:
   output-dir: docs
   resources: 
     - slides/WCDP23/banner.png
-    - assets
+    - assets/
+    - CNAME
   
 execute: 
   freeze: auto
@@ -29,6 +30,22 @@ website:
       - icon: book
         text: Papers
         href: https://cv.hal.science/david-carayon
+      - text: Main projects
+        icon: code-square
+        menu:
+        - text: "IDEATools"
+          icon: box
+          href: https://cran.r-project.org/web/packages/IDEATools/index.html
+        - text: "InraeThemes"
+          icon: box
+          href: https://github.com/davidcarayon/InraeThemes
+        - text: "quarto-inrae-extension"
+          icon: file-earmark-easel
+          href: https://github.com/davidcarayon/quarto-inrae-extension
+        - text: "SK8"
+          icon: code
+          href: https://sk8.inrae.fr
+
     right:
       - icon: github
         href: https://github.com/davidcarayon
