@@ -1,17 +1,17 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/InraeThemes_Quarto/index.html"
+    ]
+  },
+  {
     "listing": "/slides.html",
     "items": [
       "/slides/WCDP23/index.html",
       "/slides/CITISES_SK8/index.html",
       "/slides/Bulledr/index.html",
       "/slides/ideatools/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/InraeThemes_Quarto/index.html"
     ]
   }
 ]

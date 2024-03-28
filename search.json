@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "blog/InraeThemes_Quarto/index.html",
-    "href": "blog/InraeThemes_Quarto/index.html",
-    "title": "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "Hi 👋 \nFor my first blog post ever, I wanted to share some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community - {InraeThemes} and quarto-inrae-extension. Originally conceived as personal projects to explore R and Quarto features, these tools have found their way into various research units and collaborations.\nSeeing the growing adoption of these projects, and especially since the Quarto extension got a spot on the official Quarto website, I thought it was time to give them a bit of a facelift.\nHere’s what’s new on the latest versions:\n\nInraeThemes 3.0.0: Refining Visualization and Design 🎨\nInraeThemes, my R package for ggplot themes and Bootstrap-based themes for RShiny applications, has received some updates. With a nod to INRAE branding guidelines, this release aims to enhance the visual experience for data visualization and application development. Check out the latest version on GitHub.\n\n\nQuarto-Inrae-Extension: Streamlining Document Formatting 📄\nThe quarto-inrae-extension has undergone some changes, evolving into a more comprehensive solution for document formatting. Offering templates for standalone documents (HTML, PDF via Typst, docx, pptx, revealJS, and beamer), as well as Quarto projects (static websites, books, and manuscripts), this extension provides users with a versatile set of tools. Explore the updates on GitHub.\nBoth of these projects are meant to be collaborative, and I welcome any suggestions or, even better, pull requests! Special thanks to those who have already contributed (S.Boutry, E. Maigné, C. Midoux).\nAnd of course, if you are using these tools, feel free to let me know! Unfortunately, I don’t have a way to monitor their usage on GitHub. Your real-life examples would be highly appreciated!\n(R-)Quarto-ly yours,\nDavid"
+    "text": "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0\n\n\n\n\n\n\nINRAE\n\n\npackage\n\n\nR\n\n\ntemplates\n\n\nquarto\n\n\n\nSome updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community\n\n\n\n\n\nMar 28, 2024\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/Bulledr/index.html",
@@ -12,6 +12,34 @@
     "title": "Bulle d’R #1 : Best practises at ETTIS",
     "section": "",
     "text": "Première session de formation annuelle aux bonnes pratiques R à ETTIS.\n\n\n\n\n\n\nPrésentation ici : https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html"
+  },
+  {
+    "objectID": "slides/ideatools/index.html",
+    "href": "slides/ideatools/index.html",
+    "title": "Introducing IDEATools",
+    "section": "",
+    "text": "slides here 👉 https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "My public slides\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUsing machine learning to predict drownings in surf beaches of southwest France\n\n\nSlides for our communication for the WCDP2023 in Perth (Australia)\n\n\n\nDec 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSK8 webinar\n\n\nWebinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)\n\n\n\nSep 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBulle d'R #1 : Best practises at ETTIS\n\nYearly training given to interns about best practices about R programming in our research unit\n\n\n\n`Jun 6, 2023`{=html}\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroducing IDEATools\n\n\nShort description of the IDEATools R package\n\n\n\nFeb 2, 2021\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/InraeThemes_Quarto/index.html",
+    "href": "blog/InraeThemes_Quarto/index.html",
+    "title": "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0",
+    "section": "",
+    "text": "Hi 👋 \nFor my first blog post ever, I wanted to share some updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community - {InraeThemes} and quarto-inrae-extension. Originally conceived as personal projects to explore R and Quarto features, these tools have found their way into various research units and collaborations.\nSeeing the growing adoption of these projects, and especially since the Quarto extension got a spot on the official Quarto website, I thought it was time to give them a bit of a facelift.\nHere’s what’s new on the latest versions:\n\nInraeThemes 3.0.0: Refining Visualization and Design 🎨\nInraeThemes, my R package for ggplot themes and Bootstrap-based themes for RShiny applications, has received some updates. With a nod to INRAE branding guidelines, this release aims to enhance the visual experience for data visualization and application development. Check out the latest version on GitHub.\n\n\nQuarto-Inrae-Extension: Streamlining Document Formatting 📄\nThe quarto-inrae-extension has undergone some changes, evolving into a more comprehensive solution for document formatting. Offering templates for standalone documents (HTML, PDF via Typst, docx, pptx, revealJS, and beamer), as well as Quarto projects (static websites, books, and manuscripts), this extension provides users with a versatile set of tools. Explore the updates on GitHub.\nBoth of these projects are meant to be collaborative, and I welcome any suggestions or, even better, pull requests! Special thanks to those who have already contributed (S.Boutry, E. Maigné, C. Midoux).\nAnd of course, if you are using these tools, feel free to let me know! Unfortunately, I don’t have a way to monitor their usage on GitHub. Your real-life examples would be highly appreciated!\n(R-)Quarto-ly yours,\nDavid"
+  },
+  {
+    "objectID": "slides/CITISES_SK8/index.html",
+    "href": "slides/CITISES_SK8/index.html",
+    "title": "SK8 webinar",
+    "section": "",
+    "text": "Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/CITISES_SK8"
   },
   {
     "objectID": "slides/WCDP23/index.html",
@@ -33,34 +61,6 @@
     "title": "Using machine learning to predict drownings in surf beaches of southwest France",
     "section": "References",
     "text": "References\n[1] Tellier, Éric, Bruno Simonnet, Cédric Gil-Jardiné, Marion Lerouge-Bailhache, Bruno Castelle, and Rachid Salmi. 2022. \"Predicting Drowning from Sea and Weather Forecasts: Development and Validation of a Model on Surf Beaches of Southwestern France.\" Injury Prevention 28 (1): 16–22.\n[2] Box, George E. P. (1976), “Science and statistics”, Journal of the American Statistical Association, 71 (356): 791–799"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides",
-    "section": "",
-    "text": "My public slides\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUsing machine learning to predict drownings in surf beaches of southwest France\n\n\nSlides for our communication for the WCDP2023 in Perth (Australia)\n\n\n\nDec 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSK8 webinar\n\n\nWebinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)\n\n\n\nSep 29, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBulle d'R #1 : Best practises at ETTIS\n\nYearly training given to interns about best practices about R programming in our research unit\n\n\n\n`Jun 6, 2023`{=html}\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroducing IDEATools\n\n\nShort description of the IDEATools R package\n\n\n\nFeb 2, 2021\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0\n\n\n\n\n\n\nINRAE\n\n\npackage\n\n\nR\n\n\ntemplates\n\n\nquarto\n\n\n\nSome updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community\n\n\n\n\n\nMar 11, 2024\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "slides/CITISES_SK8/index.html",
-    "href": "slides/CITISES_SK8/index.html",
-    "title": "SK8 webinar",
-    "section": "",
-    "text": "Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/CITISES_SK8"
-  },
-  {
-    "objectID": "slides/ideatools/index.html",
-    "href": "slides/ideatools/index.html",
-    "title": "Introducing IDEATools",
-    "section": "",
-    "text": "slides here 👉 https://github.com/davidcarayon/slides/blob/main/Presentation_IDEATools/slides_ideatools_fr.pdf"
   },
   {
     "objectID": "index.html",
