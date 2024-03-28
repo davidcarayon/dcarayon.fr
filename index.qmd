@@ -1,6 +1,6 @@
 ---
 title: "Hi there !"
-image: profile.png
+image: profile.jpeg
 title-block-banner: "#0FB77F"
 about:
   image-width: 20em
