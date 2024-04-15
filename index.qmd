@@ -10,15 +10,12 @@ about:
       - icon: github
         text: Github
         href: https://github.com/davidcarayon
-      - icon: book
-        text: CV-HAL
-        href: https://cv.hal.science/david-carayon
-      - icon: twitter
-        text: Twitter
-        href: https://twitter.com/david_carayon
       - icon: linkedin
         text: Linkedin
         href: https://www.linkedin.com/in/carayon-david/
+      - icon: book
+        text: CV-HAL
+        href: https://cv.hal.science/david-carayon
 from: markdown+emoji
 ---
 
@@ -26,7 +23,22 @@ My name is David Carayon and I'm a statistician / Data Scientist working at the 
 
 My work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.
 
-My main programming langages/skills are R (tidyverse, tidymodels, shiny), Quarto/Rmarkdown, SQL and Python.
+:hammer: Tools and Frameworks I use :
+
+<p align="center">
+  <a href="https://github.com/topics/r" title="R"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/python" title="Python"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/postgresql" title="PostgreSQL"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/quarto" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png" alt="quarto logo" width="36" height="36" /></a>
+   <a href="https://github.com/topics/tidyverse" title="Git"><img src="https://avatars.githubusercontent.com/u/22032646?s=200&v=4" alt="tidyverse logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/tidymodels" title="Git"><img src="https://github.com/tidymodels/tidymodels/raw/main/man/figures/logo.png" alt="tidymodels logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/shiny" title="Git"><img src="https://github.com/rstudio/shiny/raw/main/man/figures/logo.png" alt="shiny logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/Visual_Studio_Code" title="VSCode"><img src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png" alt="VSCode logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/gitlab" title="GitLab"><img src="https://raw.githubusercontent.com/github/explore/3f5c1e7d83bce81b0872ac88d46532515bdc88ef/topics/gitlab/gitlab.png" alt="gitlab logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/docker" title="docker"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/odk" title="odk"><img src="https://repository-images.githubusercontent.com/355069/27043699-2a0a-4135-b3bd-bc8a92810980" alt="odk logo" width="50" height="36" /></a>
+  <a href="https://github.com/topics/bootstrap" title="Bootstrap"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="36" height="36" /></a>
+</p>
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "SK8 webinar"
+title: "Hosting Shiny apps using SK8 (webinar)"
 author: "David CARAYON"
 date: "2023-09-29"
 categories: [SK8, slides, INRAE, CATI]
