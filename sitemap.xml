@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dcarayon.fr/blog.html</loc>
-    <lastmod>2024-03-28T08:16:01.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/Bulledr/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/ideatools/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.371Z</lastmod>
+    <loc>https://dcarayon.fr/blog/InraeThemes_Quarto/index.html</loc>
+    <lastmod>2024-04-15T09:18:25.532Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/slides.html</loc>
-    <lastmod>2024-03-28T08:16:01.367Z</lastmod>
+    <lastmod>2024-04-15T09:18:25.540Z</lastmod>
   </url>
   <url>
-    <loc>https://dcarayon.fr/blog/InraeThemes_Quarto/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.359Z</lastmod>
+    <loc>https://dcarayon.fr/slides/ideatools/index.html</loc>
+    <lastmod>2024-04-15T09:18:25.544Z</lastmod>
   </url>
   <url>
-    <loc>https://dcarayon.fr/slides/CITISES_SK8/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.367Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/WCDP23/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.367Z</lastmod>
+    <loc>https://dcarayon.fr/slides/Bulledr/index.html</loc>
+    <lastmod>2024-04-15T09:18:25.540Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/index.html</loc>
-    <lastmod>2024-03-28T08:16:01.359Z</lastmod>
+    <lastmod>2024-04-15T09:18:25.532Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides/CITISES_SK8/index.html</loc>
+    <lastmod>2024-04-15T09:18:25.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides/WCDP23/index.html</loc>
+    <lastmod>2024-04-15T09:18:25.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/blog.html</loc>
+    <lastmod>2024-04-15T09:18:25.532Z</lastmod>
   </url>
 </urlset>
