@@ -2,8 +2,8 @@
 title: "Slides"
 listing:
   contents: slides
-  type: grid
-  fields: [image, date, title, subtitle, description]
+  type: table
+  fields: [date, title, description, categories]
   sort: "date desc"
   categories: cloud
   sort-ui: true
@@ -15,4 +15,4 @@ comments: false
 toc: true
 ---
 
-My public slides
+Public slides for from my talks and teachings.

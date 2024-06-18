@@ -1,8 +1,8 @@
 ---
-title: "Bulle d'R #1 : Best practises at ETTIS"
+title: "Teaching : Best practices for a productive R workflow"
 author: "David CARAYON, Sandrine LYSER"
 date: "2023-06-06"
-categories: [Formation, Bulle d'R, ETTIS, slides, INRAE]
+categories: [Teaching, Best practises]
 image: "thumbnail.jpg"
 description: Yearly training given to interns about best practices about R programming in our research unit
 ---
@@ -12,6 +12,6 @@ Première session de formation annuelle aux bonnes pratiques R à ETTIS.
 
 
 :::{.callout-tip appearance="simple"}
-Présentation ici : [https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html](https://statire.github.io/bulledr/01-bonnes_pratiques/01-bonnes_pratiques.html)
+Présentation ici : [https://statire.github.io/bulledr/01-bonnes_pratiques/](https://statire.github.io/bulledr/01-bonnes_pratiques/)
 :::
 

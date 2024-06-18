@@ -1,10 +1,10 @@
 ---
-title: "Introducing IDEATools"
+title: "Using the {IDEATools} package to evaluate sustainability of French farms"
 author: "David CARAYON"
 date: "2021-02-02"
-categories: [IDEATools, IDEA4, slides]
+categories: [IDEATools, IDEA4, R]
 image: "https://methode-idea.org/fileadmin/_processed_/0/e/csm_logo_idea_87301e2f13.png"
-description: Short description of the IDEATools R package
+description: Introducing the R package and its features
 ---
 
 

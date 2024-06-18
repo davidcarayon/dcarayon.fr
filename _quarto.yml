@@ -42,8 +42,8 @@ website:
         - text: "SK8"
           icon: code
           href: https://sk8.inrae.fr
-      - icon: book
-        text: Papers
+      - icon: box-arrow-up-right
+        text: Academic CV and papers
         href: https://cv.hal.science/david-carayon
 
     right:

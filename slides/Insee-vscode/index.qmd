@@ -1,8 +1,8 @@
 ---
-title: "vscode for R programming (FRENCH)"
+title: "Using VSCode for R programming : a (R)evolution ? (FRENCH)"
 author: "David CARAYON"
 date: "2024-06-03"
-categories: [vscode, R]
+categories: [VSCode, R, Quarto]
 image: "https://code.visualstudio.com/assets/docs/languages/r/overview.png"
 description: Webinar about my experience using vscode for R programming and other data science related tasks.
 ---
@@ -10,5 +10,8 @@ description: Webinar about my experience using vscode for R programming and othe
 Présentation dans le cadre d'une animation com' à l'INSEE
 
 :::{.callout-tip appearance="simple"}
-Présentation ici : [https://davidcarayon.github.io/Insee-vscode](https://davidcarayon.github.io/Insee-vscode)
+slides here : [https://davidcarayon.github.io/Insee-vscode](https://davidcarayon.github.io/Insee-vscode)
 :::
+
+
+<iframe class="slide-deck" src="https://davidcarayon.github.io/Insee-vscode" width="90%" height="400px"></iframe>

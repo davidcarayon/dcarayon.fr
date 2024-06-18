@@ -2,7 +2,7 @@
 title: "Using machine learning to predict drownings in surf beaches of southwest France"
 author: "David CARAYON"
 date: "2023-12-04"
-categories: [WCDP, slides, Drowning, Machine learning]
+categories: [WCDP, Drowning, Machine learning]
 image: thumbnail.png
 description: Slides for our communication for the WCDP2023 in Perth (Australia)
 ---

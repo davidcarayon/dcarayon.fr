@@ -1,8 +1,8 @@
 ---
-title: "Hosting Shiny apps using SK8 (webinar)"
+title: "Hosting Shiny apps using Shiny Kubernetes Service (SK8)"
 author: "David CARAYON"
 date: "2023-09-29"
-categories: [SK8, slides, INRAE, CATI]
+categories: [SK8, Shiny, Kubernetes]
 image: "https://sk8.inrae.fr/images/SK8-logo-trans-128.png"
 description: Webinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)
 ---

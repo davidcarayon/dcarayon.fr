@@ -10,6 +10,9 @@ about:
       - icon: github
         text: Github
         href: https://github.com/davidcarayon
+      - icon: gitlab
+        text: Gitlab
+        href: https://forgemia.inra.fr/david.carayon
       - icon: linkedin
         text: Linkedin
         href: https://www.linkedin.com/in/carayon-david/
@@ -21,7 +24,7 @@ from: markdown+emoji
 
 My name is David Carayon and I'm a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).
 
-My work mainly focuses on environmental evaluation. I build evaluation methods based on composite and statistically relevant indicators and also develop tools and software associated with these methods.
+I am specialized in creating data pipelines for research projects, from collection to analysis and reporting. I transform raw data into useful insights and interactive solutions, developing applications and packages, and producing comprehensive reports and presentations. I focus on ensuring data quality and reproducibility, while also automating workflows to improve efficiency and collaboration.
 
 :hammer: Tools and Frameworks I use :
 
