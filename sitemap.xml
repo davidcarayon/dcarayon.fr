@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dcarayon.fr/slides.html</loc>
-    <lastmod>2024-06-18T07:56:49.450Z</lastmod>
+    <loc>https://dcarayon.fr/blog.html</loc>
+    <lastmod>2024-06-18T13:01:46.062Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.442Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/Bulledr/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/Insee-vscode/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.450Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/slides/CITISES_SK8/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.450Z</lastmod>
+    <lastmod>2024-06-18T13:01:46.066Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/slides/WCDP23/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.450Z</lastmod>
+    <lastmod>2024-06-18T13:01:46.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides/Bulledr/index.html</loc>
+    <lastmod>2024-06-18T13:01:46.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides.html</loc>
+    <lastmod>2024-06-18T13:01:46.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides/Insee-vscode/index.html</loc>
+    <lastmod>2024-06-18T13:01:46.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dcarayon.fr/slides/CITISES_SK8/index.html</loc>
+    <lastmod>2024-06-18T13:01:46.074Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/slides/ideatools/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.458Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dcarayon.fr/blog.html</loc>
-    <lastmod>2024-06-18T07:56:49.442Z</lastmod>
+    <lastmod>2024-06-18T13:01:46.078Z</lastmod>
   </url>
   <url>
     <loc>https://dcarayon.fr/blog/InraeThemes_Quarto/index.html</loc>
-    <lastmod>2024-06-18T07:56:49.442Z</lastmod>
+    <lastmod>2024-06-18T13:01:46.066Z</lastmod>
   </url>
 </urlset>
