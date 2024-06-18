@@ -27,21 +27,6 @@ website:
       - text: Blog
         icon: newspaper
         href: blog.html
-      - text: Main projects
-        icon: code-square
-        menu:
-        - text: "IDEATools"
-          icon: box
-          href: https://cran.r-project.org/web/packages/IDEATools/index.html
-        - text: "InraeThemes"
-          icon: box
-          href: https://github.com/davidcarayon/InraeThemes
-        - text: "quarto-inrae-extension"
-          icon: file-earmark-easel
-          href: https://github.com/davidcarayon/quarto-inrae-extension
-        - text: "SK8"
-          icon: code
-          href: https://sk8.inrae.fr
       - icon: box-arrow-up-right
         text: Academic CV and papers
         href: https://cv.hal.science/david-carayon
