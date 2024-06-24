@@ -27,8 +27,11 @@ website:
       - text: Blog
         icon: newspaper
         href: blog.html
+      - text: CV
+        icon: box-arrow-up-right
+        href: https://github.com/davidcarayon/cv-typst
       - icon: box-arrow-up-right
-        text: Academic CV and papers
+        text: Papers
         href: https://cv.hal.science/david-carayon
 
     right:
