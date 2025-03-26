@@ -7,11 +7,46 @@
     "text": "Introducing InraeThemes 3.0.0 and quarto-inrae-extension 1.0.0\n\n\n\n\n\n\nINRAE\n\n\npackage\n\n\nR\n\n\ntemplates\n\n\nquarto\n\n\n\nSome updates regarding two tools that have quietly become quite popular in the R/Quarto INRAE community\n\n\n\n\n\nMar 4, 2024\n\n\nDavid CARAYON\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "slides/Insee-vscode/index.html",
+    "href": "slides/Insee-vscode/index.html",
+    "title": "Using VSCode for R programming : a (R)evolution ? (FRENCH)",
+    "section": "",
+    "text": "Présentation dans le cadre d’une animation com’ à l’INSEE\n\n\n\n\n\n\nslides here : https://davidcarayon.github.io/Insee-vscode"
+  },
+  {
+    "objectID": "slides/Bulledr/index.html",
+    "href": "slides/Bulledr/index.html",
+    "title": "Teaching : Best practices for a productive R workflow",
+    "section": "",
+    "text": "Première session de formation annuelle aux bonnes pratiques R à ETTIS.\n\n\n\n\n\n\nPrésentation ici : https://statire.github.io/bulledr/01-bonnes_pratiques/"
+  },
+  {
+    "objectID": "slides/CITISES_SK8/index.html",
+    "href": "slides/CITISES_SK8/index.html",
+    "title": "Hosting Shiny apps using Shiny Kubernetes Service (SK8)",
+    "section": "",
+    "text": "Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/CITISES_SK8"
+  },
+  {
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
+    "section": "",
+    "text": "Public slides for from my talks and teachings.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\nCategories\n\n\n\n\n\n\nJun 3, 2024\n\n\nUsing VSCode for R programming : a (R)evolution ? (FRENCH)\n\n\nWebinar about my experience using vscode for R programming and other data science related tasks.\n\n\nVSCode, R, Quarto\n\n\n\n\nDec 4, 2023\n\n\nUsing machine learning to predict drownings in surf beaches of southwest France\n\n\nSlides for our communication for the WCDP2023 in Perth (Australia)\n\n\nWCDP, Drowning, Machine learning\n\n\n\n\nSep 29, 2023\n\n\nHosting Shiny apps using Shiny Kubernetes Service (SK8)\n\n\nWebinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)\n\n\nSK8, Shiny, Kubernetes\n\n\n\n\nJun 6, 2023\n\n\nTeaching : Best practices for a productive R workflow\n\n\nYearly training given to interns about best practices about R programming in our research unit\n\n\nTeaching, Best practises\n\n\n\n\nFeb 2, 2021\n\n\nUsing the {IDEATools} package to evaluate sustainability of French farms\n\n\nIntroducing the R package and its features\n\n\nIDEATools, IDEA4, R\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hi there !",
     "section": "",
-    "text": "My name is David Carayon and I’m a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\nI am specialized in creating data pipelines for research projects, from collection to analysis and reporting. I transform raw data into useful insights and interactive solutions, developing applications and packages, and producing comprehensive reports and presentations. I focus on ensuring data quality and reproducibility, while also automating workflows to improve efficiency and collaboration.\n🔨 Tools and Frameworks I use :"
+    "text": "My name is David Carayon and I’m a Database administrator / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).\nMy main role is to organize and structure scientific data to facilitate its use by researchers. This involves designing and managing relational databases, developing web tools for data entry and consultation, and training both permanent and temporary teams. A key part of my work also consists of coordinating the IT aspects within the unit, whether it involves selecting technical solutions, implementing and adopting new technologies, or monitoring technological innovations related to data acquisition and processing. Additionally, I am responsible for setting up processing pipelines for bioinformatics data, particularly for omics data. Finally, I contribute to research projects by integrating and formatting third-party data or assisting in the publication of generated data.\n🔨 Tools and Frameworks I use :"
+  },
+  {
+    "objectID": "slides/ideatools/index.html",
+    "href": "slides/ideatools/index.html",
+    "title": "Using the {IDEATools} package to evaluate sustainability of French farms",
+    "section": "",
+    "text": "slides here 👉 https://github.com/davidcarayon/slides/blob/main/teaching/Presentation_IDEATools/slides_ideatools_fr.pdf"
   },
   {
     "objectID": "slides/WCDP23/index.html",
@@ -33,41 +68,6 @@
     "title": "Using machine learning to predict drownings in surf beaches of southwest France",
     "section": "References",
     "text": "References\n[1] Tellier, Éric, Bruno Simonnet, Cédric Gil-Jardiné, Marion Lerouge-Bailhache, Bruno Castelle, and Rachid Salmi. 2022. \"Predicting Drowning from Sea and Weather Forecasts: Development and Validation of a Model on Surf Beaches of Southwestern France.\" Injury Prevention 28 (1): 16–22.\n[2] Box, George E. P. (1976), “Science and statistics”, Journal of the American Statistical Association, 71 (356): 791–799"
-  },
-  {
-    "objectID": "slides/Bulledr/index.html",
-    "href": "slides/Bulledr/index.html",
-    "title": "Teaching : Best practices for a productive R workflow",
-    "section": "",
-    "text": "Première session de formation annuelle aux bonnes pratiques R à ETTIS.\n\n\n\n\n\n\nPrésentation ici : https://statire.github.io/bulledr/01-bonnes_pratiques/"
-  },
-  {
-    "objectID": "slides.html",
-    "href": "slides.html",
-    "title": "Slides",
-    "section": "",
-    "text": "Public slides for from my talks and teachings.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nDescription\n\n\nCategories\n\n\n\n\n\n\nJun 3, 2024\n\n\nUsing VSCode for R programming : a (R)evolution ? (FRENCH)\n\n\nWebinar about my experience using vscode for R programming and other data science related tasks.\n\n\nVSCode, R, Quarto\n\n\n\n\nDec 4, 2023\n\n\nUsing machine learning to predict drownings in surf beaches of southwest France\n\n\nSlides for our communication for the WCDP2023 in Perth (Australia)\n\n\nWCDP, Drowning, Machine learning\n\n\n\n\nSep 29, 2023\n\n\nHosting Shiny apps using Shiny Kubernetes Service (SK8)\n\n\nWebinar about the SK8 project (Institutional Shiny Apps deployment using Docker, Kubernetes, Gitlab CI/CD)\n\n\nSK8, Shiny, Kubernetes\n\n\n\n\nJun 6, 2023\n\n\nTeaching : Best practices for a productive R workflow\n\n\nYearly training given to interns about best practices about R programming in our research unit\n\n\nTeaching, Best practises\n\n\n\n\nFeb 2, 2021\n\n\nUsing the {IDEATools} package to evaluate sustainability of French farms\n\n\nIntroducing the R package and its features\n\n\nIDEATools, IDEA4, R\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "slides/Insee-vscode/index.html",
-    "href": "slides/Insee-vscode/index.html",
-    "title": "Using VSCode for R programming : a (R)evolution ? (FRENCH)",
-    "section": "",
-    "text": "Présentation dans le cadre d’une animation com’ à l’INSEE\n\n\n\n\n\n\nslides here : https://davidcarayon.github.io/Insee-vscode"
-  },
-  {
-    "objectID": "slides/CITISES_SK8/index.html",
-    "href": "slides/CITISES_SK8/index.html",
-    "title": "Hosting Shiny apps using Shiny Kubernetes Service (SK8)",
-    "section": "",
-    "text": "Présentation du projet SK8 lors du Webinaire du CATI CITISES du 19/09/2023\n\n\n\n\n\n\nPrésentation ici : https://davidcarayon.github.io/slides/talks/CITISES_SK8"
-  },
-  {
-    "objectID": "slides/ideatools/index.html",
-    "href": "slides/ideatools/index.html",
-    "title": "Using the {IDEATools} package to evaluate sustainability of French farms",
-    "section": "",
-    "text": "slides here 👉 https://github.com/davidcarayon/slides/blob/main/teaching/Presentation_IDEATools/slides_ideatools_fr.pdf"
   },
   {
     "objectID": "blog/InraeThemes_Quarto/index.html",
