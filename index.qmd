@@ -22,9 +22,9 @@ about:
 from: markdown+emoji
 ---
 
-My name is David Carayon and I'm a statistician / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).
+My name is David Carayon and I'm a Database administrator / Data Scientist working at the French National Research Institute for Agriculture, Food and the Environment (INRAE).
 
-I am specialized in creating data pipelines for research projects, from collection to analysis and reporting. I transform raw data into useful insights and interactive solutions, developing applications and packages, and producing comprehensive reports and presentations. I focus on ensuring data quality and reproducibility, while also automating workflows to improve efficiency and collaboration.
+My main role is to organize and structure scientific data to facilitate its use by researchers. This involves designing and managing relational databases, developing web tools for data entry and consultation, and training both permanent and temporary teams. A key part of my work also consists of coordinating the IT aspects within the unit, whether it involves selecting technical solutions, implementing and adopting new technologies, or monitoring technological innovations related to data acquisition and processing. Additionally, I am responsible for setting up processing pipelines for bioinformatics data, particularly for omics data. Finally, I contribute to research projects by integrating and formatting third-party data or assisting in the publication of generated data.
 
 :hammer: Tools and Frameworks I use :
 
@@ -32,6 +32,7 @@ I am specialized in creating data pipelines for research projects, from collecti
   <a href="https://github.com/topics/r" title="R"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/python" title="Python"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/postgresql" title="PostgreSQL"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql logo" width="36" height="36" /></a>
+  <a href="https://github.com/topics/dbeaver" title="DBeaver"><img src="https://avatars.githubusercontent.com/u/34743864?s=48&v=4" alt="dbeaver logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/quarto" title="Git"><img src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png" alt="quarto logo" width="36" height="36" /></a>
    <a href="https://github.com/topics/tidyverse" title="Git"><img src="https://avatars.githubusercontent.com/u/22032646?s=200&v=4" alt="tidyverse logo" width="36" height="36" /></a>
   <a href="https://github.com/topics/tidymodels" title="Git"><img src="https://github.com/tidymodels/tidymodels/raw/main/man/figures/logo.png" alt="tidymodels logo" width="36" height="36" /></a>
